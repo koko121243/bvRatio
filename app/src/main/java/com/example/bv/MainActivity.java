@@ -21,7 +21,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    //TextView formula です;
+    //TextView formula で;
     TextView result;
 
     EditText flopBetSize;
